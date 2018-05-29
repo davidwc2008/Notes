@@ -1,0 +1,4 @@
+C++ Notes
+
+flush() makes sure the file stream is updated with the data.
+endl() puts a newline and then uses flush().
